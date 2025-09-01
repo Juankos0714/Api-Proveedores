@@ -1,0 +1,17 @@
+C:\Users\jucar\Documentos\Software Development\JAVA POO\Api_Proveedores\ApiProveedores\src\main\java\com\api\proveedores\dto\VentaDto.java
+C:\Users\jucar\Documentos\Software Development\JAVA POO\Api_Proveedores\ApiProveedores\src\main\java\com\api\proveedores\repository\ProductoRepository.java
+C:\Users\jucar\Documentos\Software Development\JAVA POO\Api_Proveedores\ApiProveedores\src\main\java\com\api\proveedores\dto\ProveedorDto.java
+C:\Users\jucar\Documentos\Software Development\JAVA POO\Api_Proveedores\ApiProveedores\src\main\java\com\api\proveedores\model\Producto.java
+C:\Users\jucar\Documentos\Software Development\JAVA POO\Api_Proveedores\ApiProveedores\src\main\java\com\api\proveedores\repository\VentaRepository.java
+C:\Users\jucar\Documentos\Software Development\JAVA POO\Api_Proveedores\ApiProveedores\src\main\java\com\api\proveedores\ProveedoresApiApplication.java
+C:\Users\jucar\Documentos\Software Development\JAVA POO\Api_Proveedores\ApiProveedores\src\main\java\com\api\proveedores\dto\ProductoDto.java
+C:\Users\jucar\Documentos\Software Development\JAVA POO\Api_Proveedores\ApiProveedores\src\main\java\com\api\proveedores\repository\ProveedorRepository.java
+C:\Users\jucar\Documentos\Software Development\JAVA POO\Api_Proveedores\ApiProveedores\src\main\java\com\api\proveedores\controller\ProductoController.java
+C:\Users\jucar\Documentos\Software Development\JAVA POO\Api_Proveedores\ApiProveedores\src\main\java\com\api\proveedores\service\ProductoService.java
+C:\Users\jucar\Documentos\Software Development\JAVA POO\Api_Proveedores\ApiProveedores\src\main\java\com\api\proveedores\exception\GlobalExceptionHandler.java
+C:\Users\jucar\Documentos\Software Development\JAVA POO\Api_Proveedores\ApiProveedores\src\main\java\com\api\proveedores\model\Proveedor.java
+C:\Users\jucar\Documentos\Software Development\JAVA POO\Api_Proveedores\ApiProveedores\src\main\java\com\api\proveedores\model\Venta.java
+C:\Users\jucar\Documentos\Software Development\JAVA POO\Api_Proveedores\ApiProveedores\src\main\java\com\api\proveedores\service\ProveedorService.java
+C:\Users\jucar\Documentos\Software Development\JAVA POO\Api_Proveedores\ApiProveedores\src\main\java\com\api\proveedores\service\VentaService.java
+C:\Users\jucar\Documentos\Software Development\JAVA POO\Api_Proveedores\ApiProveedores\src\main\java\com\api\proveedores\controller\ProveedorController.java
+C:\Users\jucar\Documentos\Software Development\JAVA POO\Api_Proveedores\ApiProveedores\src\main\java\com\api\proveedores\controller\VentaController.java

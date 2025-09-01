@@ -1,0 +1,17 @@
+com\api\proveedores\controller\ProveedorController.class
+com\api\proveedores\repository\ProveedorRepository.class
+com\api\proveedores\controller\VentaController.class
+com\api\proveedores\exception\GlobalExceptionHandler.class
+com\api\proveedores\repository\ProductoRepository.class
+com\api\proveedores\controller\ProductoController.class
+com\api\proveedores\model\Venta.class
+com\api\proveedores\model\Producto.class
+com\api\proveedores\service\ProveedorService.class
+com\api\proveedores\service\ProductoService.class
+com\api\proveedores\dto\ProveedorDto.class
+com\api\proveedores\repository\VentaRepository.class
+com\api\proveedores\ProveedoresApiApplication.class
+com\api\proveedores\dto\ProductoDto.class
+com\api\proveedores\dto\VentaDto.class
+com\api\proveedores\model\Proveedor.class
+com\api\proveedores\service\VentaService.class

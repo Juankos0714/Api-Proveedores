@@ -1,0 +1,13 @@
+spring:
+  r2dbc:
+    url: r2dbc:mysql://localhost:3306/proveedores_db
+    username: root
+    password: "carlosmanuel"
+  
+server:
+  port: 8080
+
+logging:
+  level:
+    io.r2dbc.mysql.QUERY: DEBUG
+    io.r2dbc.mysql.PARAM: DEBUG
